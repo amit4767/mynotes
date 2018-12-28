@@ -12,3 +12,9 @@ kafka-console-consumer --bootstrap-server 127.0.0.1:9092 --topic first_topic --f
 KafkaCat (https://github.com/edenhill/kafkacat) is an open-source alternative to using the Kafka CLI, created by Magnus Edenhill.
 
 While KafkaCat is not used in this course, if you have any interest in trying it out, I recommend reading: https://medium.com/@coderunner/debugging-with-kafkacat-df7851d21968
+
+configure producer: https://kafka.apache.org/documentation/#producerconfigs
+
+configure consumers:  https://kafka.apache.org/documentation/#consumerconfigs
+
+
