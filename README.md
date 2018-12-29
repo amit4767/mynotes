@@ -17,4 +17,4 @@ configure producer: https://kafka.apache.org/documentation/#producerconfigs
 
 configure consumers:  https://kafka.apache.org/documentation/#consumerconfigs
 
-
+https://docs.confluent.io/current/streams/developer-guide/test-streams.html#streams-developer-testing
