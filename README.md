@@ -18,3 +18,7 @@ configure producer: https://kafka.apache.org/documentation/#producerconfigs
 configure consumers:  https://kafka.apache.org/documentation/#consumerconfigs
 
 https://docs.confluent.io/current/streams/developer-guide/test-streams.html#streams-developer-testing
+
+
+
+https://medium.com/@stephane.maarek/the-kafka-api-battle-producer-vs-consumer-vs-kafka-connect-vs-kafka-streams-vs-ksql-ef584274c1e
