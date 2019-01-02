@@ -22,3 +22,5 @@ https://docs.confluent.io/current/streams/developer-guide/test-streams.html#stre
 
 
 https://medium.com/@stephane.maarek/the-kafka-api-battle-producer-vs-consumer-vs-kafka-connect-vs-kafka-streams-vs-ksql-ef584274c1e
+
+https://lombardo-chcg.github.io/tools/2017/12/20/kafka-log-compaction.html
