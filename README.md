@@ -26,3 +26,4 @@ https://medium.com/@stephane.maarek/the-kafka-api-battle-producer-vs-consumer-vs
 https://lombardo-chcg.github.io/tools/2017/12/20/kafka-log-compaction.html
 
 https://github.com/simplesteph/kafka-connect-github-source
+https://github.com/jcustenborder/kafka-connect-archtype
